@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3560e1a9-8684-4ffe-bdc7-7ec312b3c15e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/SingletonMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/annotation/TipoChave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/dao/ClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/dao/IClienteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/dao/IProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/dao/ProdutoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/dao/generic/GenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/dao/generic/IGenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/domain/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/domain/Persistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/domain/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/exception/TipoChaveNaoEncontradaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/mock/ClienteDAOMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/service/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/service/IClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/service/IProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/service/ProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/service/generic/GenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/service/generic/IGenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/br/com/merlo/ClienteDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/br/com/merlo/ClienteServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2aYSojKtFCseoH3SSLYXL7LStvb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Repositório geral Git/Back-end/Projeto2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.merlo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repositório geral Git\Back-end\Projeto2\src\br\com\merlo" />
+      <recent name="C:\Repositório geral Git\Back-end\Projeto2\src\br\com\merlo\dao" />
+      <recent name="C:\Repositório geral Git\Back-end\Projeto2\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.merlo" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.merlo.domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClienteDAOTest.pesquisarCliente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Projeto2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.merlo.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.merlo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.merlo.ClienteDAOTest" />
+      <option name="METHOD_NAME" value="pesquisarCliente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteDAOTest.pesquisarCliente" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3560e1a9-8684-4ffe-bdc7-7ec312b3c15e" name="Changes" comment="" />
+      <created>1704494198143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704494198143</updated>
+    </task>
+    <servers />
+  </component>
+</project>
